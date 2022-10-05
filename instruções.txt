@@ -1,0 +1,11 @@
+﻿Para executar a aplicação:
+
+1- Instale o Xampp
+
+2- Mova a pasta desse projeto para C:\xampp\htdocs
+
+3- Certifique-se que o port do Apache configurado no xampp seja 8080 ou 8081
+
+4- Inicie os serviços do Apache e MySQL
+
+5- Acesse a aplicação pelo localhost:  http://127.0.0.1:8080/ExeCRUDAluno/View/login.php ou http://127.0.0.1:8081/ExeCRUDAluno/View/login.php  (dependendo do port configurado no Apache)
